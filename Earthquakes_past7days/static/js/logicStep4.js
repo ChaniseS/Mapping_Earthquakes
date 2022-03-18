@@ -112,3 +112,5 @@ style: styleInfo,
 // Then we add the earthquake to our map.
 earthquakes.addTo(map);
     });
+
+    
